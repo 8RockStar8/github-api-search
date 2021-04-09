@@ -1,0 +1,10 @@
+.content {
+  width: 100%;
+  color: #fff;
+  display: flex;
+  overflow-y: auto;
+  overflow-x: hidden;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 100px);
+}
