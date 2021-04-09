@@ -27,7 +27,7 @@ const Content = () => {
         <Route exact path='/'>
           <Home />
         </Route>
-        <Route exact path='/user'>
+        <Route path='/user'>
           <User />
         </Route>
         <Route>
