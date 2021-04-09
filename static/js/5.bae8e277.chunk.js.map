@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/notFound/component.js","pages/notFound/index.js"],"names":["NotFound"],"mappings":"qIAAA,IAIeA,EAJE,WACf,MAAO,sBCAMA","file":"static/js/5.bae8e277.chunk.js","sourcesContent":["const NotFound = () => {\n  return '404 Page not found';\n};\n\nexport default NotFound;\n","import NotFound from './component';\nexport default NotFound;\n"],"sourceRoot":""}
